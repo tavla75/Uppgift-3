@@ -1,0 +1,15 @@
+h1
+{
+    color: rgb(111, 241, 5); text-align: center; 
+}
+button
+{
+ background-color: black; color: rgb(240, 248, 255); border-radius: 70%; height: 50%; aspect-ratio: 1; width: 100px; padding: 5px 25px;
+
+}
+body
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(48, 56, 65, 0.514);
+}
